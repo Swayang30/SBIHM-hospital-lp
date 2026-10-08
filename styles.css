@@ -4863,3 +4863,21 @@ select.hero-form__input option {
     grid-template-columns: repeat(4, 1fr);
   }
 }
+
+/* Career Scope block (added) */
+.career-scope-block {
+  margin-top: 2rem;
+}
+
+.career-scope-title {
+  margin-bottom: 0.75rem;
+}
+
+.career-scope-text {
+  margin-bottom: 0.75rem;
+}
+
+.career-scope-roles-title {
+  margin-top: 1.25rem;
+  margin-bottom: 0.75rem;
+}
